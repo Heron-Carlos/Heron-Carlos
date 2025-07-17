@@ -72,7 +72,7 @@
 <div align="center">
   <h3>📬 Get In Touch</h3>
   <p>
-    <a href="https://www.linkedin.com/in/heron-carlos-a6425623/" target="_blank">
+    <a href="https://www.linkedin.com/in/heron-carlos-a64256232" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:heroncarlos.r6@gmail.com" target="_blank">
